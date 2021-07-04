@@ -3,7 +3,8 @@
   The purpose of this analysis was to identify any success trends pertaining to a launch date for a production in a theater as well as how their financial goals might have played a part in their success.
     How
   The analysis was performed by creating line graphs highlighting the changes in success depending on launch date as well as the financial goal of the production. The only major problem I ran into is that my outcomes vs goals chart did not look like the one in the example but my numbers appear to  be accurate so I believe my chart is accurate as well.    ![Theater Outcomes Vs Launch](https://user-images.githubusercontent.com/84109986/124372810-40aac480-dc5b-11eb-9faa-001535e33599.png)
-![outcomes vs goals](https://user-images.githubusercontent.com/84109986/124372816-502a0d80-dc5b-11eb-86bc-0ea384b529be.png)
+![outcomes vs goals](https://user-images.githubusercontent.com/84109986/124373507-c41ae480-dc60-11eb-97a3-16843a12d6f7.png)
+
 
     Results
   According to the data on theater outcomes by launch date, it can be concluded that summer productions tend to perform better than any other time of year and winter productions have the least success compared to the rest of the year.
